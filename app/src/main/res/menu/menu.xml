@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="ExtraText">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/item1"
+        android:title= " Physics"
+        android:icon="@drawable/baseline_menu_24"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item2"
+        android:title="Math"
+        android:icon="@drawable/baseline_menu_24"
+        app:showAsAction="never"/>
+</menu>
